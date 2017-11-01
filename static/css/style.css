@@ -1,0 +1,12 @@
+ul,li{margin: 0; padding: 0;}
+li{list-style: none;}
+.h100{height: 100%;}
+.br1{border-right: 1px solid #C1C1C1;}
+.mr10{margin-right: 10px;}
+.mb15{margin-bottom: 15px;}
+.rel{position: relative;} .abs{position: absolute;} .fix{position: fixed;}
+.c1{color: red;} .c2{color: #0066ac;}
+.bold{font-weight: bold;}
+
+
+.global-opertor{position: absolute; top:0; right: 15px;margin-top: 20px;}
